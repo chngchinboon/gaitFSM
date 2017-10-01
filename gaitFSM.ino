@@ -1,5 +1,7 @@
-#include <FiniteStateMachine.h>
+//FSM for gait tracking
 
+#include <FiniteStateMachine.h>
+//
 void setup() {
   // put your setup code here, to run once:
 
